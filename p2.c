@@ -8,6 +8,7 @@ void bfs(int s,int n);
 void dfs(int s,int n);
 void push(int item);
 int pop();
+jidbihoabffuib
 
 void main()
 {
