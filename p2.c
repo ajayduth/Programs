@@ -11,6 +11,7 @@ int pop();
 
 void main()
 {
+int b;
 int n,N,i,k,s,ch,j;
 char c,dummy;
 printf("ENTER THE NUMBER VERTICES ");
