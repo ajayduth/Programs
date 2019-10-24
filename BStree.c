@@ -206,6 +206,6 @@ do{
     scanf(" %c",&ch);
   }while(ch=='y'||ch=='Y');
 
- 
+  printf("\n");
 }
 
