@@ -12,7 +12,7 @@ void main()
 {
 int n,N,i,k,s,ch,j;
 char c,dummy;
-printf("ENTER THE NUMBER VERTICES ");
+printf("ENTER THE NUMBER Vertices ");
 scanf("%d",&n);
 for(i=1;i<=n;i++)
 {
